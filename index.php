@@ -44,7 +44,7 @@ echo $titulo_sitio;
 	$url_titulo_contenido = "Ir hacia atrás";
 	$url_mensaje = "Ir Atrás";
 	echo "\t<a href='{$url_contenido}' title='{$url_titulo_contenido}'>{$url_mensaje}</a>\n";
-?>
+	?>
 </div>
 </body>
 </html>
